@@ -1,0 +1,15 @@
+1,addedLane
+2,curveRight
+3,dip
+4,intersection
+5,laneEnds
+6,merge
+7,pedestrianCrossing
+8,signalAhead
+9,slow
+10,stopAhead
+11,thruMergeLeft
+12,thruMergeRight
+13,turnLeft
+14,turnRight
+15,yieldAhead
